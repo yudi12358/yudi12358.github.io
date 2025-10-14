@@ -27,8 +27,8 @@ author:
   name             : "Di Yu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Statistics, Purdue University"
-  location         : "West Lafayette, IN"
-  employer         : "Purdue University"
+  location         : #"West Lafayette, IN"
+  employer         : #"Purdue University"
   uri              : # URL
   email            : "yu1128@purdue.edu" 
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "yudi12358"
+  github           : # "yudi12358"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
