@@ -46,7 +46,7 @@ I expect to graduate in **May 2026** and plan to pursue an academic career in **
 
 1. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “Deterministic and Stochastic Frank-Wolfe Recursion on Probability Spaces.” *Mathematics of Operations Research.* [doi: 10.1287/moor.2024.0584](https://doi.org/10.1287/moor.2024.0584)  
 2. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “The Derivative-Free Fully-Corrective Frank-Wolfe Algorithm for Optimizing Functionals over Probability Spaces.” *2025 Winter Simulation Conference (WSC), Accepted.*  
-3. **Wang, Z.\***, **Yu, D.\***, Khalilzadeh Fathi, M., Pei, C. (2025). “Few-Shot Learning-Enhanced Tiered Path Planning for Mars Rover Navigation.” *Proceedings of the American Control Conference (ACC).* [doi: 10.23919/ACC63710.2025.11107497](https://doi.org/10.23919/ACC63710.2025.11107497)  
+3. **Wang, Z.\***, **Yu, D.\***, Khalilzadeh Fathi, M., Pei, C. (2025). “Few-Shot Learning-Enhanced Tiered Path Planning for Mars Rover Navigation.” *2025 American Control Conference (ACC).* [doi: 10.23919/ACC63710.2025.11107497](https://doi.org/10.23919/ACC63710.2025.11107497)  
 4. **Pei, C.**, You, S., **Yu, D.**, Dai, R. (2025). “Multiphase Iterative Algorithm for Mixed-Integer Optimal Control.” *Journal of Guidance, Control, and Dynamics.* [doi: 10.2514/1.G008165](https://doi.org/10.2514/1.G008165)  
 
 *See the [Publications page](/publications/) for a full list, including papers under review and working papers.*
