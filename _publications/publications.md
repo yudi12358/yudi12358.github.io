@@ -19,7 +19,7 @@ author_profile: true
 
 ## Under Review
 
-1. **Yu, D.**, Henderson, S. G., & Pasupathy, R. (2025). [Frank–Wolfe recursions for the emergency response problem on measure spaces](https://arxiv.org/abs/2507.09888). *Stochastic Systems*. *(Under review)*
+1. **Yu, D.**, Henderson, S. G., & Pasupathy, R. (2025). [Frank–Wolfe recursions for the emergency response problem on measure spaces](https://arxiv.org/abs/2507.09808). *Stochastic Systems*. *(Under review)*
 
 2. **Yu, D.**, You, S., & Pei, C. (2025). Convexifying mean-field control: An occupation-measure and Frank–Wolfe approach. *American Control Conference (ACC)*. *(Under review)*
 
