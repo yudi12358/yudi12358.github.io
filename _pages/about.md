@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Di Yu
-
 **Ph.D. Candidate in Statistics, Purdue University**  
 **Advisor:** [Prof. Raghu Pasupathy](https://www.stat.purdue.edu/~pasupath/)  
 **Collaborator:** [Prof. Shane G. Henderson](https://people.orie.cornell.edu/shane/) (Cornell University)  
