@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Deterministic and Stochastic Frank–Wolfe Recursion on Probability Spaces"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: journal
+permalink: /publication/2025-frank-wolfe-moor
+excerpt: 'This paper introduces deterministic and stochastic Frank–Wolfe recursions for optimization over probability spaces, establishing convergence guarantees and demonstrating applications to emergency response and experimental design.'
+date: 2025-05-01
+venue: 'Mathematics of Operations Research'
+paperurl: 'https://doi.org/10.1287/moor.2024.0584'
+citation: 'Yu, D., Henderson, S. G., &amp; Pasupathy, R. (2025). &quot;Deterministic and Stochastic Frank–Wolfe Recursion on Probability Spaces.&quot; <i>Mathematics of Operations Research</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper develops deterministic and stochastic Frank–Wolfe recursions that operate directly on infinite-dimensional probability spaces via the influence function, avoiding discretization and enabling particle-based updates.  
+
+We establish **O(1/k)** convergence for convex objectives and **O(1/√k)** for nonconvex cases, along with a fixed-step variant achieving exponential convergence and a central limit theorem.  
+
+Applications include **emergency response optimization**, **experimental design**, and **Gaussian deconvolution**, demonstrating the practical utility of measure-space optimization methods.
