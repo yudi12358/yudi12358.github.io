@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Ph.D. Candidate in Statistics, Purdue University**  
-**Advisor:** [Prof. Raghu Pasupathy](https://www.stat.purdue.edu/~pasupath/)  
+**Advisor:** [Prof. Raghu Pasupathy](http://web.ics.purdue.edu/~pasupath)  
 **Email:** yu1128@purdue.edu  
 
 ---
