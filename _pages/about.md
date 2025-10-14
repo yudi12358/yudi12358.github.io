@@ -7,30 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-# Di Yu
+# Di Yu (于迪)
 
 **Ph.D. Candidate in Statistics, Purdue University**  
 **Advisor:** [Prof. Raghu Pasupathy](https://www.stat.purdue.edu/~pasupath/)  
+**Collaborator:** [Prof. Shane G. Henderson](https://people.orie.cornell.edu/shane/) (Cornell University)  
 **Email:** yu1128@purdue.edu  
 
 ---
 
 ## About Me
 
-I am a Ph.D. candidate in the Department of Statistics at Purdue University. My research focuses on the development and analysis of simulation-based algorithms for **stochastic systems**, particularly in the context of **rare-event simulation**, **stochastic optimization**, and **Monte Carlo methods**.  
-My long-term goal is to design methods that are both mathematically rigorous and computationally scalable, enabling the study of complex, high-dimensional systems that are otherwise intractable.
+I am a Ph.D. candidate in the Department of Statistics at Purdue University, advised by Prof. Raghu Pasupathy and working closely with Prof. Shane G. Henderson at Cornell University.
 
-I am especially interested in understanding how simulation-based procedures can be adapted to improve efficiency in problems where **analytical characterizations are unavailable** and **data are limited or noisy**. My work is motivated by challenges in operations research, reliability engineering, and statistical computation.
+My research focuses on **optimization over probability spaces**, **simulation-based optimization**, and **data-driven decision-making**, with applications in **resource allocation**, **experimental design**, **machine learning**, and **large-scale planning under uncertainty**. I have developed a series of **Frank–Wolfe–type methods for infinite-dimensional optimization** that combine theoretical rigor with computational scalability.
+
+I expect to graduate in **May 2026** and plan to pursue an academic career in **operations research**, **optimization**, and **data science**.
 
 ---
 
 ## Research Interests
 
-- Rare-event simulation and efficiency analysis  
-- Stochastic root-finding and optimization  
-- Monte Carlo and quasi–Monte Carlo methods  
-- Performance evaluation of stochastic networks  
-- Uncertainty quantification and applied probability  
+- Optimization over probability spaces  
+- Simulation-based optimization  
+- Frank–Wolfe–type algorithms and infinite-dimensional optimization  
+- Experimental design and resource allocation  
+- Stochastic modeling and uncertainty quantification  
 
 ---
 
@@ -59,7 +61,7 @@ A detailed CV can be found [here](/files/CV.pdf).
 
 ## Personal
 
-Outside research, I enjoy hiking, photography, and exploring how mathematical modeling can help understand complex real-world systems.
+Outside of research, I enjoy hiking, photography, and exploring how mathematical modeling can help solve real-world problems.
 
 ---
 
