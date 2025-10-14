@@ -1,3 +1,10 @@
+---
+title: "Publications"
+layout: single
+permalink: /publications/
+author_profile: true
+---
+
 ## Published Papers
 
 1. **Yu, D.**, Henderson, S. G., & Pasupathy, R. (2025). [Deterministic and stochastic Frank–Wolfe recursion on probability spaces](https://doi.org/10.1287/moor.2024.0584). *Mathematics of Operations Research*.
