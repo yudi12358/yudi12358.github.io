@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Di Yu – Ph.D. Candidate in Statistics at Purdue University"
+title: "Di Yu"
 author_profile: true
 redirect_from:
   - /about/
