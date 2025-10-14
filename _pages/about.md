@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Di Yu (于迪)
+# Di Yu
 
 **Ph.D. Candidate in Statistics, Purdue University**  
 **Advisor:** [Prof. Raghu Pasupathy](https://www.stat.purdue.edu/~pasupath/)  
