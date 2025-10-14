@@ -16,11 +16,11 @@ redirect_from:
 
 ## About Me
 
-Di Yu is a Ph.D. candidate in the Department of Statistics at Purdue University, advised by Professor Raghu Pasupathy and working closely with Professor Shane G. Henderson at Cornell University.  
+I am a Ph.D. candidate in the Department of Statistics at Purdue University, advised by Professor Raghu Pasupathy and working closely with Professor Shane G. Henderson at Cornell University.  
 
-His research focuses on **optimization over probability spaces**, **simulation-based optimization**, and **data-driven decision-making**, with applications in **resource allocation**, **experimental design**, **machine learning**, and **large-scale planning under uncertainty**. He has developed a series of **Frank–Wolfe–type methods for infinite-dimensional optimization** that combine theoretical rigor with computational scalability.  
+My research focuses on **optimization over probability spaces**, **simulation-based optimization**, and **data-driven decision-making**, with applications in **resource allocation**, **experimental design**, **machine learning**, and **large-scale planning under uncertainty**. I have developed a series of **Frank–Wolfe–type methods for infinite-dimensional optimization** that combine theoretical rigor with computational scalability.  
 
-Di expects to graduate in **May 2026** and plans to pursue an academic career in **operations research**, **optimization**, and **data science**. He is a recipient of the **2025 Bilsland Dissertation Fellowship**.
+I expect to graduate in **May 2026** and plan to pursue an academic career in **operations research**, **optimization**, and **data science**. I am a recipient of the **2025 Bilsland Dissertation Fellowship**.
 
 ---
 
