@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m Di Yu, a Ph.D. candidate in the Department of Statistics at Purdue University, advised by [Prof. Raghu Pasupathy](https://www.stat.purdue.edu/~pasupath/).  
+Welcome! I’m Di Yu, a Ph.D. candidate in the Department of Statistics at Purdue University, advised by [Prof. Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).  
 My research lies at the intersection of stochastic simulation, rare-event estimation, and optimization. I aim to develop theoretically grounded and practically efficient methods for analyzing rare events in high-dimensional systems.
 
 My current work focuses on:  
