@@ -9,14 +9,13 @@ redirect_from:
 
 **Ph.D. Candidate in Statistics, Purdue University**  
 **Advisor:** [Prof. Raghu Pasupathy](https://www.stat.purdue.edu/~pasupath/)  
-**Collaborator:** [Prof. Shane G. Henderson](https://people.orie.cornell.edu/shane/) (Cornell University)  
 **Email:** yu1128@purdue.edu  
 
 ---
 
 ## About Me
 
-I am a Ph.D. candidate in the Department of Statistics at Purdue University, advised by Professor Raghu Pasupathy and working closely with Professor Shane G. Henderson at Cornell University.  
+I am a Ph.D. candidate in the Department of Statistics at Purdue University, advised by Professor Raghu Pasupathy and working closely with [Professor Shane G. Henderson](https://people.orie.cornell.edu/shane/) at Cornell University.  
 
 My research focuses on **optimization over probability spaces**, **simulation-based optimization**, and **data-driven decision-making**, with applications in **resource allocation**, **experimental design**, **machine learning**, and **large-scale planning under uncertainty**. I have developed a series of **Frank–Wolfe–type methods for infinite-dimensional optimization** that combine theoretical rigor with computational scalability.  
 
@@ -46,7 +45,7 @@ I expect to graduate in **May 2026** and plan to pursue an academic career in **
 ## Selected Publications
 
 1. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “Deterministic and Stochastic Frank-Wolfe Recursion on Probability Spaces.” *Mathematics of Operations Research.* [doi: 10.1287/moor.2024.0584](https://doi.org/10.1287/moor.2024.0584)  
-2. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “The Derivative-Free Fully-Corrective Frank-Wolfe Algorithm for Optimizing Functionals over Probability Spaces.” *Proceedings of the Winter Simulation Conference (WSC).*  
+2. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “The Derivative-Free Fully-Corrective Frank-Wolfe Algorithm for Optimizing Functionals over Probability Spaces.” *2025 Winter Simulation Conference (WSC), Accepted.*  
 3. **Wang, Z.\***, **Yu, D.\***, Khalilzadeh Fathi, M., Pei, C. (2025). “Few-Shot Learning-Enhanced Tiered Path Planning for Mars Rover Navigation.” *Proceedings of the American Control Conference (ACC).* [doi: 10.23919/ACC63710.2025.11107497](https://doi.org/10.23919/ACC63710.2025.11107497)  
 4. **Pei, C.**, You, S., **Yu, D.**, Dai, R. (2025). “Multiphase Iterative Algorithm for Mixed-Integer Optimal Control.” *Journal of Guidance, Control, and Dynamics.* [doi: 10.2514/1.G008165](https://doi.org/10.2514/1.G008165)  
 
@@ -61,4 +60,3 @@ I expect to graduate in **May 2026** and plan to pursue an academic career in **
 ---
 
 
-*This website is built with the [AcademicPages](https://github.com/academicpages/academicpages.github.io) template and hosted on [GitHub Pages](https://pages.github.com).*
