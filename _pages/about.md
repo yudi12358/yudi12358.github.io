@@ -60,23 +60,5 @@ Di expects to graduate in **May 2026** and plans to pursue an academic career in
 
 ---
 
-## Teaching Experience
-
-- Teaching Assistant, STAT 517, 553, 511, 519, 538–539, 545, 532, 301  
-- Guest Lecturer, Graduate Study Groups on Duality and Empirical Processes  
-
----
-
-## Curriculum Vitae
-
-A detailed CV can be found [here](/files/CV.pdf).
-
----
-
-## Personal
-
-Outside research, I enjoy hiking, photography, and exploring how mathematical modeling can help solve real-world problems.
-
----
 
 *This website is built with the [AcademicPages](https://github.com/academicpages/academicpages.github.io) template and hosted on [GitHub Pages](https://pages.github.com).*
