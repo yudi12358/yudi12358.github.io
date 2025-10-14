@@ -16,11 +16,11 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. candidate in the Department of Statistics at Purdue University, advised by Prof. Raghu Pasupathy and working closely with Prof. Shane G. Henderson at Cornell University.
+Di Yu is a Ph.D. candidate in the Department of Statistics at Purdue University, advised by Professor Raghu Pasupathy and working closely with Professor Shane G. Henderson at Cornell University.  
 
-My research focuses on **optimization over probability spaces**, **simulation-based optimization**, and **data-driven decision-making**, with applications in **resource allocation**, **experimental design**, **machine learning**, and **large-scale planning under uncertainty**. I have developed a series of **Frank–Wolfe–type methods for infinite-dimensional optimization** that combine theoretical rigor with computational scalability.
+His research focuses on **optimization over probability spaces**, **simulation-based optimization**, and **data-driven decision-making**, with applications in **resource allocation**, **experimental design**, **machine learning**, and **large-scale planning under uncertainty**. He has developed a series of **Frank–Wolfe–type methods for infinite-dimensional optimization** that combine theoretical rigor with computational scalability.  
 
-I expect to graduate in **May 2026** and plan to pursue an academic career in **operations research**, **optimization**, and **data science**.
+Di expects to graduate in **May 2026** and plans to pursue an academic career in **operations research**, **optimization**, and **data science**. He is a recipient of the **2025 Bilsland Dissertation Fellowship**.
 
 ---
 
@@ -36,18 +36,34 @@ I expect to graduate in **May 2026** and plan to pursue an academic career in **
 
 ## Education
 
-- **Ph.D. in Statistics**, Purdue University, West Lafayette, IN  
+- **Ph.D. in Statistics**, Purdue University, West Lafayette, IN (2021 – 2026 expected)  
   *Advisor: Prof. Raghu Pasupathy*  
-- **B.S. in Mathematics**, Beihang University, Beijing, China  
+- **M.S. in Industrial and Systems Engineering**, Georgia Institute of Technology, Atlanta, GA (2016 – 2017)  
+- **B.S. in Mathematics** and **B.S. in Economics**, Wuhan University, China (2011 – 2015)  
 
 ---
 
 ## Selected Publications
 
-See my [Publications page](/publications/) for a complete list.
+1. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “Deterministic and Stochastic Frank-Wolfe Recursion on Probability Spaces.” *Mathematics of Operations Research.* [doi: 10.1287/moor.2024.0584](https://doi.org/10.1287/moor.2024.0584)  
+2. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “The Derivative-Free Fully-Corrective Frank-Wolfe Algorithm for Optimizing Functionals over Probability Spaces.” *Proceedings of the Winter Simulation Conference (WSC).*  
+3. **Wang, Z.\***, **Yu, D.\***, Khalilzadeh Fathi, M., Pei, C. (2025). “Few-Shot Learning-Enhanced Tiered Path Planning for Mars Rover Navigation.” *Proceedings of the American Control Conference (ACC).* [doi: 10.23919/ACC63710.2025.11107497](https://doi.org/10.23919/ACC63710.2025.11107497)  
+4. **Pei, C.**, You, S., **Yu, D.**, Dai, R. (2025). “Multiphase Iterative Algorithm for Mixed-Integer Optimal Control.” *Journal of Guidance, Control, and Dynamics.* [doi: 10.2514/1.G008165](https://doi.org/10.2514/1.G008165)  
 
-1. *Yu, D.*, Pasupathy, R. (2025). “Variance Reduction Techniques for Rare-event Simulation via Adaptive Sampling.” *Under Review.*  
-2. *Yu, D.*, Pasupathy, R. (2024). “Stochastic Root-Finding in High-Dimensional Systems.” *Proceedings of the Winter Simulation Conference (WSC).*  
+*See the [Publications page](/publications/) for a full list, including papers under review and working papers.*
+
+---
+
+## Awards and Honors
+
+- **Bilsland Dissertation Fellowship**, Purdue University (2025)  
+
+---
+
+## Teaching Experience
+
+- Teaching Assistant, STAT 517, 553, 511, 519, 538–539, 545, 532, 301  
+- Guest Lecturer, Graduate Study Groups on Duality and Empirical Processes  
 
 ---
 
@@ -59,7 +75,7 @@ A detailed CV can be found [here](/files/CV.pdf).
 
 ## Personal
 
-Outside of research, I enjoy hiking, photography, and exploring how mathematical modeling can help solve real-world problems.
+Outside research, I enjoy hiking, photography, and exploring how mathematical modeling can help solve real-world problems.
 
 ---
 
