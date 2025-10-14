@@ -80,13 +80,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  Published Papers:
-    title: 'Published Papers'
-  Under Review:
-    title: 'Under Review'    
-  Working Papers:
-    title: 'Working Papers'
+# publication_category:
+#   Published Papers:
+#     title: 'Published Papers'
+#   Under Review:
+#     title: 'Under Review'    
+#   Working Papers:
+#     title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
