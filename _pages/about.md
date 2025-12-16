@@ -19,7 +19,15 @@ I am a Ph.D. candidate in the Department of Statistics at Purdue University, adv
 
 My research focuses on **optimization over probability spaces**, **simulation-based optimization**, and **data-driven decision-making**, with applications in **resource allocation**, **experimental design**, **machine learning**, and **large-scale planning under uncertainty**. I have developed a series of **Frank–Wolfe–type methods for infinite-dimensional optimization** that combine theoretical rigor with computational scalability.  
 
-I expect to graduate in **May 2026** and plan to pursue an academic career in **operations research**, **optimization**, and **data science**. I am a recipient of the **2025 Bilsland Dissertation Fellowship**.
+I expect to graduate in **May 2026** and plan to pursue an academic career in **operations research**, **optimization**, and **data science**. 
+
+---
+
+## News
+
+- **12/2025:** Our paper “The Derivative-Free Fully-Corrective Frank–Wolfe Algorithm for Optimizing Functionals over Probability Spaces” received the **Best Contributed Theoretical Paper Award** at the **Winter Simulation Conference (WSC)**.
+- **09/2025:** Our paper “Deterministic and Stochastic Frank–Wolfe Recursion on Probability Spaces” was published in *Mathematics of Operations Research*.
+- **03/2025:** **Bilsland Dissertation Fellowship**, Purdue University.
 
 ---
 
@@ -55,7 +63,8 @@ I expect to graduate in **May 2026** and plan to pursue an academic career in **
 
 ## Awards and Honors
 
-- **Bilsland Dissertation Fellowship**, Purdue University (2025)  
+- **Best Contributed Theoretical Paper**, Winter Simulation Conference (WSC), 2025.
+- **Bilsland Dissertation Fellowship**, Purdue University, 2025.
 
 ---
 
