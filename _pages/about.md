@@ -26,7 +26,7 @@ I expect to graduate in **May 2026** and plan to pursue an academic career in **
 ## News
 
 - **12/2025:** Our paper “The Derivative-Free Fully-Corrective Frank–Wolfe Algorithm for Optimizing Functionals over Probability Spaces” received the **Best Contributed Theoretical Paper Award** at the **Winter Simulation Conference (WSC)**.
-- **09/2025:** Our paper “Deterministic and Stochastic Frank–Wolfe Recursion on Probability Spaces” was published in *Mathematics of Operations Research*.
+- **09/2025:** Our paper “Deterministic and Stochastic Frank–Wolfe Recursion on Probability Spaces” was published in **Mathematics of Operations Research**.
 - **03/2025:** **Bilsland Dissertation Fellowship**, Purdue University.
 
 ---
@@ -53,7 +53,7 @@ I expect to graduate in **May 2026** and plan to pursue an academic career in **
 ## Selected Publications
 
 1. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “Deterministic and Stochastic Frank-Wolfe Recursion on Probability Spaces.” *Mathematics of Operations Research.* [doi: 10.1287/moor.2024.0584](https://doi.org/10.1287/moor.2024.0584)  
-2. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “The Derivative-Free Fully-Corrective Frank-Wolfe Algorithm for Optimizing Functionals over Probability Spaces.” *2025 Winter Simulation Conference (WSC), Accepted.*  
+2. **Yu, D.**, Henderson, S. G., Pasupathy, R. (2025). “The Derivative-Free Fully-Corrective Frank–Wolfe Algorithm for Optimizing Functionals over Probability Spaces.” *Proceedings of the 2025 Winter Simulation Conference (WSC).* (Best Contributed Theoretical Paper)
 3. **Wang, Z.\***, **Yu, D.\***, Khalilzadeh Fathi, M., Pei, C. (2025). “Few-Shot Learning-Enhanced Tiered Path Planning for Mars Rover Navigation.” *2025 American Control Conference (ACC).* [doi: 10.23919/ACC63710.2025.11107497](https://doi.org/10.23919/ACC63710.2025.11107497)  
 4. **Pei, C.**, You, S., **Yu, D.**, Dai, R. (2025). “Multiphase Iterative Algorithm for Mixed-Integer Optimal Control.” *Journal of Guidance, Control, and Dynamics.* [doi: 10.2514/1.G008165](https://doi.org/10.2514/1.G008165)  
 
