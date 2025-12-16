@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ph.D. Candidate"
+title                    : "Di Yu - Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Di Yu"
 description              : &description "Academic portfolio of Di Yu, Ph.D. candidate in Statistics at Purdue University. Research interests: Optimization, Simulation, and Data Science."   # Update this with a general description of your site, this is the default if not overridden by a page
