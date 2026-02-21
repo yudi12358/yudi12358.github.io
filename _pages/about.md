@@ -25,6 +25,7 @@ I expect to graduate in **August 2026** and plan to pursue an academic career in
 
 ## News
 
+- **01/2026:** Our paper “Convexifying Mean-Field Control: An Occupation-Measure and Frank–Wolfe Approach” was accepted to the **American Control Conference (ACC) 2026**.
 - **12/2025:** Our paper “The Derivative-Free Fully-Corrective Frank–Wolfe Algorithm for Optimizing Functionals over Probability Spaces” received the **Best Contributed Theoretical Paper Award** at the **Winter Simulation Conference (WSC)**.
 - **09/2025:** Our paper “Deterministic and Stochastic Frank–Wolfe Recursion on Probability Spaces” was published in **Mathematics of Operations Research**.
 - **03/2025:** **Bilsland Dissertation Fellowship**, Purdue University.
