@@ -19,7 +19,7 @@ I am a Ph.D. candidate in the Department of Statistics at Purdue University, adv
 
 My research focuses on **optimization over probability spaces**, **simulation-based optimization**, and **data-driven decision-making**, with applications in **resource allocation**, **experimental design**, **machine learning**, and **large-scale planning under uncertainty**. I have developed a series of **Frank–Wolfe–type methods for infinite-dimensional optimization** that combine theoretical rigor with computational scalability.  
 
-I expect to graduate in **May 2026** and plan to pursue an academic career in **operations research**, **optimization**, and **data science**. 
+I expect to graduate in **August 2026** and plan to pursue an academic career in **operations research**, **optimization**, and **data science**. 
 
 ---
 
