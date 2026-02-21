@@ -11,7 +11,7 @@ author_profile: true
 
 2. **Yu, D.**, Henderson, S. G., & Pasupathy, R. (2025). [Deterministic and stochastic Frank–Wolfe recursion on probability spaces](https://doi.org/10.1287/moor.2024.0584). *Mathematics of Operations Research*.
 
-3. **Yu, D.**, Henderson, S. G., & Pasupathy, R. (2025). “The Derivative-Free Fully-Corrective Frank–Wolfe Algorithm for Optimizing Functionals over Probability Spaces.” *Proceedings of the 2025 Winter Simulation Conference (WSC).* (Best Contributed Theoretical Paper)
+3. **Yu, D.**, Henderson, S. G., & Pasupathy, R. (2025). [The Derivative-Free Fully-Corrective Frank–Wolfe Algorithm for Optimizing Functionals over Probability Spaces](https://doi.org/10.1109/WSC68292.2025.11338916). *Proceedings of the 2025 Winter Simulation Conference (WSC).* *(Best Contributed Theoretical Paper)*
 
 4. Wang, Z., **Yu, D.**, Khalilzadeh Fathi, M., & Pei, C. (2025). [Few-shot learning-enhanced tiered path planning for Mars rover navigation](https://doi.org/10.23919/ACC63710.2025.11107497). *2025 American Control Conference (ACC)*, IEEE, pp. 3500–3505.
 
