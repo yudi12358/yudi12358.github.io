@@ -46,7 +46,7 @@ I expect to graduate in **August 2026** and plan to pursue an academic career in
 
 - **Ph.D. in Statistics**, Purdue University, West Lafayette, IN (2021 – 2026 expected)  
   *Advisor: Prof. Raghu Pasupathy*  
-- **M.S. in Industrial and Systems Engineering**, Georgia Institute of Technology, Atlanta, GA (2016 – 2017)  
+- **M.S. Quantitative and Computational Finance (QCF)**, Georgia Institute of Technology, Atlanta, GA (2016 – 2017)  
 - **B.S. in Mathematics** and **B.S. in Economics**, Wuhan University, China (2011 – 2015)  
 
 ---
