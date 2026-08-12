@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant Professor, Department of Mathematics and Statistics, Missouri University of Science and Technology**  
+Assistant Professor, Department of Mathematics and Statistics, Missouri University of Science and Technology  
 **Email:** dy9dq@mst.edu
 
 ---
