@@ -19,6 +19,7 @@ author_profile: true
 
 1. **Yu, D.**, Henderson, S. G., & Pasupathy, R. (2025). [Frank–Wolfe recursions for the emergency response problem on measure spaces](https://arxiv.org/abs/2507.09808). *Stochastic Systems*. *(Under review)*
 2. **Yu, D.**, You, S., & Pei, C. (2026). [Occupation-measure mean-field control: Optimization over measures and Frank-Wolfe methods](https://arxiv.org/abs/2603.16094). *Automatica*. *(Under review)*
+
 ---
 
 ## Working Papers
