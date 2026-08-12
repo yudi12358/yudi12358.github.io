@@ -6,16 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500&display=swap');
-.chinese-name {
-  font-family: 'Noto Serif SC', serif;
-  font-weight: 500;
-  font-size: 1.1rem;
-  color: #555;
-}
-</style>
-<span class="chinese-name">于迪</span>
 
 Assistant Professor, Department of Mathematics and Statistics, Missouri University of Science and Technology  
 **Email:** dy9dq@mst.edu
