@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Di Yu - Ph.D. Candidate"
+title                    : "Di Yu - Assistant Professor"
 title_separator          : "-"
 name                     : &name "Di Yu"
-description              : &description "Academic portfolio of Di Yu, Ph.D. candidate in Statistics at Purdue University. Research interests: Optimization, Simulation, and Data Science."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic portfolio of Di Yu, Assistant Professor in Mathematics and Statistics at Missouri University of Science and Technology. Research interests: Optimization, Simulation, and Data Science."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yudi12358.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,16 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Di Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate in Statistics, Purdue University"
+  bio              : "Assistant Professor, Missouri University of Science and Technology"
   location         : #"West Lafayette, IN"
   employer         : #"Purdue University"
   uri              : # URL
-  email            : "yu1128@purdue.edu" 
+  email            : "dy9dq@mst.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=_I_1Vr8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
